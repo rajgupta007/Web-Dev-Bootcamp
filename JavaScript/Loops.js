@@ -1,1 +1,2 @@
-// this shows loops in ja
+// this shows loops in js
+lets do loops in java script
