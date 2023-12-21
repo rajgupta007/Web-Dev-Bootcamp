@@ -2,3 +2,5 @@
 ..we can edit yhis file
 all types of various operators.
   we will see ech one by one
+
+please complete one by one
