@@ -1,4 +1,4 @@
-// variables in JavaScript
+cvcf// variables in JavaScript
 
 var a;
 a = 10;
@@ -8,3 +8,4 @@ let ab = 100;
 
 const a = 1000;
 fhfvhg
+fchgvh
