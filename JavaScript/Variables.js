@@ -7,3 +7,4 @@ let ab = 100;
 // constants in JS
 
 const a = 1000;
+fhfvhg
