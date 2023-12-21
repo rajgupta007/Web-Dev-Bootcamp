@@ -1,9 +1,11 @@
 // There are many Data Types in JS
-// Integer 
+// 
 /*
   Boolean
+  character
   Number
   String
-  NaN
   Big Integer
+  symbol
 */
+c
