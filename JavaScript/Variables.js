@@ -1,11 +1,12 @@
-cvcf// variables in JavaScript
+// Variables in JS
+// Like label for values
+// we can store , reuse, recall it later
 
-var a;
-a = 10;
-var b = 11;
-let ab = 100;
-// constants in JS
+// Syntax  let someName = value;
+let year = 1999;
+let myName = "KingPolo";
 
-const a = 1000;
-fhfvhg
-fchgvh
+// let see about var and const
+// const one assigned does not change , work like let but can't change the value   ha ha :-):-)
+// var -- old way of making variables
+
