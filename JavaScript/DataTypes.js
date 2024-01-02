@@ -2,11 +2,11 @@
 // 
 /*
   Boolean
-  character
   Number
   String
+  Null
+  Undefined
   Big Integer
-  symbol
+  Symbol
 */
-c
-please do as uou like
+
