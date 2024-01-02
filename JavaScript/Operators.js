@@ -1,6 +1,11 @@
 // this tutorial we will be learning operators in JS
-..we can edit yhis file
-all types of various operators.
-  we will see ech one by one
+// mathematical operations
+// logical operation
+let a = 10, b = 2;
+a+b
+a-b
+a*c
+a/c
+a%b
+a ** b
 
-please complete one by one
