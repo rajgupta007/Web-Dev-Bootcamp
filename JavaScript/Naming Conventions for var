@@ -1,0 +1,8 @@
+// variable names conventions in JS
+// camelCase
+
+let currentDate = "02/01/2024";
+
+// snake_case
+let cuurent_year = 2024;
+
