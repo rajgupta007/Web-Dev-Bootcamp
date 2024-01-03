@@ -15,5 +15,5 @@ console.log(animal[8]);
 console.log(animal.length);  // 7
 animal = animal + animal;
 console.log(animal);
-
+//
 animal = "Octopus";
