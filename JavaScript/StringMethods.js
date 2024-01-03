@@ -11,7 +11,7 @@ console.log(animal[6]);
 
 console.log(animal[8]);
 
-//length
+//length //
 console.log(animal.length);  // 7
 animal = animal + animal;
 console.log(animal);
